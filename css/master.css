@@ -1,0 +1,24 @@
+body {
+  font-family: monospace;
+  background-color: rgba(143,174,206,0.47);
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+ul {
+  list-style: inside;
+}
+#img-div {
+  border-style: solid;
+  border-width: thin;
+  width: 400px;
+  margin: auto;
+  background: white;
+}
+#img-caption {
+  text-align: center;
+  padding: 5px;
+}
