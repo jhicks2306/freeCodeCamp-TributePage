@@ -9,7 +9,8 @@ img {
   height: auto;
 }
 ul {
-  list-style: inside;
+  display: inline-block;
+  text-align: left;
 }
 #img-div {
   border-style: solid;
@@ -21,4 +22,9 @@ ul {
 #img-caption {
   text-align: center;
   padding: 5px;
+}
+#tribute-info {
+  max-width: 400px;
+  margin: auto;
+  padding: 10px 35px 10px 10px;
 }
